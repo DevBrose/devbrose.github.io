@@ -1,0 +1,34 @@
+body {
+    color: black;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.divclass {
+    background-color: #0000;
+}
+
+h4 {
+    background-color: aqua;
+}
+
+p {
+    background-color: crimson;
+}
+
+.buttonclass {
+    background-color: blue;
+}
+
+.btn-btn-warning {
+    background-color: yellow;
+}
+
+.btn-btn-primary {
+    background-color: blue;
+}
+
+.btn-btn-danger {
+    background-color: red;
+}
